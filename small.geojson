@@ -1,0 +1,929 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8522,
+          -23.6489
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "latitude": -23.6489,
+        "longitude": -46.8522,
+        "event_id": 34755012,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Military Police (Brazil)",
+        "source_sectors": "Military,Government",
+        "source_country": "Brazil",
+        "event_text": "Use conventional military force",
+        "cameo_code": 190,
+        "intensity": -10,
+        "target_name": "Men (Brazil)",
+        "target_sectors": "Social,General Population / Civilian / Social",
+        "target_country": "Brazil",
+        "story_id": 50046377,
+        "sentence_number": 1,
+        "publisher": "O Globo",
+        "city": "Embu",
+        "district": "Embu",
+        "province": "Estado de Sao Paulo",
+        "country": "Brazil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.582,
+          24.947
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "latitude": 24.947,
+        "longitude": 121.582,
+        "event_id": 34755106,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Jair Bolsonaro",
+        "source_sectors": "Elite,Executive,Executive Office,Government",
+        "source_country": "Brazil",
+        "event_text": "Make a visit",
+        "cameo_code": 42,
+        "intensity": 1.9,
+        "target_name": "Taiwan",
+        "target_sectors": "",
+        "target_country": "Taiwan",
+        "story_id": 50046415,
+        "sentence_number": 3,
+        "publisher": "Folha de SÃ£o Paulo",
+        "city": "",
+        "district": "",
+        "province": "",
+        "country": "Taiwan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.582,
+          24.947
+        ]
+      },
+      "properties": {
+        "cartodb_id": 3,
+        "latitude": 24.947,
+        "longitude": 121.582,
+        "event_id": 34755107,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Taiwan",
+        "source_sectors": "",
+        "source_country": "Taiwan",
+        "event_text": "Host a visit",
+        "cameo_code": 43,
+        "intensity": 2.8,
+        "target_name": "Jair Bolsonaro",
+        "target_sectors": "Elite,Executive,Executive Office,Government",
+        "target_country": "Brazil",
+        "story_id": 50046415,
+        "sentence_number": 3,
+        "publisher": "Folha de SÃ£o Paulo",
+        "city": "",
+        "district": "",
+        "province": "",
+        "country": "Taiwan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 4,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754112,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Honduras",
+        "source_sectors": "",
+        "source_country": "Honduras",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Guatemala",
+        "target_sectors": "",
+        "target_country": "Guatemala",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 5,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754106,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Honduras",
+        "source_sectors": "",
+        "source_country": "Honduras",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Mexico",
+        "target_sectors": "",
+        "target_country": "Mexico",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 6,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754109,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Honduras",
+        "source_sectors": "",
+        "source_country": "Honduras",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "El Salvador",
+        "target_sectors": "",
+        "target_country": "El Salvador",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 7,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754105,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Guatemala",
+        "source_sectors": "",
+        "source_country": "Guatemala",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Honduras",
+        "target_sectors": "",
+        "target_country": "Honduras",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 8,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754108,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Guatemala",
+        "source_sectors": "",
+        "source_country": "Guatemala",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Mexico",
+        "target_sectors": "",
+        "target_country": "Mexico",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 9,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754111,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Guatemala",
+        "source_sectors": "",
+        "source_country": "Guatemala",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "El Salvador",
+        "target_sectors": "",
+        "target_country": "El Salvador",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 10,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754103,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Mexico",
+        "source_sectors": "",
+        "source_country": "Mexico",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Honduras",
+        "target_sectors": "",
+        "target_country": "Honduras",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 11,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754113,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Mexico",
+        "source_sectors": "",
+        "source_country": "Mexico",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Guatemala",
+        "target_sectors": "",
+        "target_country": "Guatemala",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 12,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754110,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Mexico",
+        "source_sectors": "",
+        "source_country": "Mexico",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "El Salvador",
+        "target_sectors": "",
+        "target_country": "El Salvador",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 13,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754104,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "El Salvador",
+        "source_sectors": "",
+        "source_country": "El Salvador",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Honduras",
+        "target_sectors": "",
+        "target_country": "Honduras",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 14,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754114,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "El Salvador",
+        "source_sectors": "",
+        "source_country": "El Salvador",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Guatemala",
+        "target_sectors": "",
+        "target_country": "Guatemala",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.668,
+          25.3242
+        ]
+      },
+      "properties": {
+        "cartodb_id": 15,
+        "latitude": 25.3242,
+        "longitude": -99.668,
+        "event_id": 34754107,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "El Salvador",
+        "source_sectors": "",
+        "source_country": "El Salvador",
+        "event_text": "Sign formal agreement",
+        "cameo_code": 57,
+        "intensity": 8,
+        "target_name": "Mexico",
+        "target_sectors": "",
+        "target_country": "Mexico",
+        "story_id": 50046429,
+        "sentence_number": 6,
+        "publisher": "Agence France-Presse",
+        "city": "",
+        "district": "",
+        "province": "Central America",
+        "country": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.397,
+          39.9075
+        ]
+      },
+      "properties": {
+        "cartodb_id": 16,
+        "latitude": 39.9075,
+        "longitude": 116.397,
+        "event_id": 34769639,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Citizen (Hong Kong)",
+        "source_sectors": "General Population / Civilian / Social,Social",
+        "source_country": "Hong Kong",
+        "event_text": "Demonstrate or rally",
+        "cameo_code": 141,
+        "intensity": -6.5,
+        "target_name": "Unspecified Actor",
+        "target_sectors": "Unspecified",
+        "target_country": "",
+        "story_id": 50079730,
+        "sentence_number": 2,
+        "publisher": "Euronews",
+        "city": "Beijing",
+        "district": "",
+        "province": "Beijing Shi",
+        "country": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.19449,
+          9.5928
+        ]
+      },
+      "properties": {
+        "cartodb_id": 17,
+        "latitude": 9.5928,
+        "longitude": -5.19449,
+        "event_id": 34769228,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Senate (Cote d'Ivoire)",
+        "source_sectors": "Upper House,Legislative / Parliamentary,Government",
+        "source_country": "Cote d'Ivoire",
+        "event_text": "Express intent to provide humanitarian aid",
+        "cameo_code": 333,
+        "intensity": 5.2,
+        "target_name": "Healthcare Facility (Cote d'Ivoire)",
+        "target_sectors": "Social,Medical / Health",
+        "target_country": "Cote d'Ivoire",
+        "story_id": 50079735,
+        "sentence_number": 1,
+        "publisher": "Agence Ivoirienne de Presse",
+        "city": "Ferkessedougou",
+        "district": "",
+        "province": "Savanes",
+        "country": "Cote d'Ivoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47778,
+          7.38194
+        ]
+      },
+      "properties": {
+        "cartodb_id": 18,
+        "latitude": 7.38194,
+        "longitude": -6.47778,
+        "event_id": 34770383,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Population (Cote d'Ivoire)",
+        "source_sectors": "General Population / Civilian / Social,Social",
+        "source_country": "Cote d'Ivoire",
+        "event_text": "Make statement",
+        "cameo_code": 10,
+        "intensity": 0,
+        "target_name": "Alassane Ouattara",
+        "target_sectors": "International Religious,Executive Office,Government,Executive,Defense / Security Ministry,Muslim,Elite",
+        "target_country": "Cote d'Ivoire",
+        "story_id": 50079737,
+        "sentence_number": 2,
+        "publisher": "Agence Ivoirienne de Presse",
+        "city": "Vavoua",
+        "district": "",
+        "province": "Haut-Sassandra",
+        "country": "Cote d'Ivoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7153,
+          30.1517
+        ]
+      },
+      "properties": {
+        "cartodb_id": 19,
+        "latitude": 30.1517,
+        "longitude": 9.7153,
+        "event_id": 34768635,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "United Nations",
+        "source_sectors": "Global Diplomatic IGOs,International Government Organization,Global",
+        "source_country": "",
+        "event_text": "Consult",
+        "cameo_code": 40,
+        "intensity": 1,
+        "target_name": "African Union",
+        "target_sectors": "International Government Organization,Regional,Regional Diplomatic IGOs",
+        "target_country": "",
+        "story_id": 50079745,
+        "sentence_number": 5,
+        "publisher": "All Africa",
+        "city": "Ghadames",
+        "district": "",
+        "province": "Sha`biyat Nalut",
+        "country": "Libya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7153,
+          30.1517
+        ]
+      },
+      "properties": {
+        "cartodb_id": 20,
+        "latitude": 30.1517,
+        "longitude": 9.7153,
+        "event_id": 34768634,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "African Union",
+        "source_sectors": "International Government Organization,Regional,Regional Diplomatic IGOs",
+        "source_country": "",
+        "event_text": "Consult",
+        "cameo_code": 40,
+        "intensity": 1,
+        "target_name": "United Nations",
+        "target_sectors": "Global Diplomatic IGOs,International Government Organization,Global",
+        "target_country": "",
+        "story_id": 50079745,
+        "sentence_number": 5,
+        "publisher": "All Africa",
+        "city": "Ghadames",
+        "district": "",
+        "province": "Sha`biyat Nalut",
+        "country": "Libya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.84006,
+          33.9911
+        ]
+      },
+      "properties": {
+        "cartodb_id": 21,
+        "latitude": 33.9911,
+        "longitude": -6.84006,
+        "event_id": 34768705,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Muhammad VI",
+        "source_sectors": "Elite,Government,Executive Office,Executive",
+        "source_country": "Morocco",
+        "event_text": "Make an appeal or request",
+        "cameo_code": 20,
+        "intensity": 3,
+        "target_name": "Government (Morocco)",
+        "target_sectors": "Government",
+        "target_country": "Morocco",
+        "story_id": 50079747,
+        "sentence_number": 1,
+        "publisher": "All Africa",
+        "city": "",
+        "district": "",
+        "province": "",
+        "country": "Morocco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "properties": {
+        "cartodb_id": 22,
+        "latitude": 36.7525,
+        "longitude": 3.04197,
+        "event_id": 34770279,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Head of Government (Algeria)",
+        "source_sectors": "Executive Office,Executive,Government",
+        "source_country": "Algeria",
+        "event_text": "Make statement",
+        "cameo_code": 10,
+        "intensity": 0,
+        "target_name": "Abdelaziz Bouteflika",
+        "target_sectors": "Elite,Ideological,Far Left,(National) Major Party,Parties",
+        "target_country": "Algeria",
+        "story_id": 50079749,
+        "sentence_number": 5,
+        "publisher": "All Africa",
+        "city": "",
+        "district": "",
+        "province": "",
+        "country": "Algeria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5203,
+          -20.3147
+        ]
+      },
+      "properties": {
+        "cartodb_id": 23,
+        "latitude": -20.3147,
+        "longitude": 57.5203,
+        "event_id": 34771043,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Police (Mauritius)",
+        "source_sectors": "Police,Government",
+        "source_country": "Mauritius",
+        "event_text": "Return, release person(s)",
+        "cameo_code": 841,
+        "intensity": 7,
+        "target_name": "Citizen (Mauritius)",
+        "target_sectors": "General Population / Civilian / Social,Social",
+        "target_country": "Mauritius",
+        "story_id": 50079758,
+        "sentence_number": 2,
+        "publisher": "All Africa",
+        "city": "Curepipe",
+        "district": "",
+        "province": "Plaines Wilhems District",
+        "country": "Mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "properties": {
+        "cartodb_id": 24,
+        "latitude": 36.7525,
+        "longitude": 3.04197,
+        "event_id": 34768473,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Head of Government (Algeria)",
+        "source_sectors": "Executive Office,Executive,Government",
+        "source_country": "Algeria",
+        "event_text": "Praise or endorse",
+        "cameo_code": 51,
+        "intensity": 3.4,
+        "target_name": "Other Authorities / Officials (Algeria)",
+        "target_sectors": "Government",
+        "target_country": "Algeria",
+        "story_id": 50079760,
+        "sentence_number": 4,
+        "publisher": "All Africa",
+        "city": "Algiers",
+        "district": "",
+        "province": "Wilaya d' Alger",
+        "country": "Algeria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "properties": {
+        "cartodb_id": 25,
+        "latitude": 36.7525,
+        "longitude": 3.04197,
+        "event_id": 34769367,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Court Judge (Algeria)",
+        "source_sectors": "Judicial,Government",
+        "source_country": "Algeria",
+        "event_text": "Make statement",
+        "cameo_code": 10,
+        "intensity": 0,
+        "target_name": "Algeria",
+        "target_sectors": "",
+        "target_country": "Algeria",
+        "story_id": 50079769,
+        "sentence_number": 5,
+        "publisher": "All Africa",
+        "city": "Algiers",
+        "district": "",
+        "province": "Wilaya d' Alger",
+        "country": "Algeria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1499,
+          46.4834
+        ]
+      },
+      "properties": {
+        "cartodb_id": 26,
+        "latitude": 46.4834,
+        "longitude": -83.1499,
+        "event_id": 34780269,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Macky Sall",
+        "source_sectors": "Center Left,Ideological,Elite,Parties,Executive Office,(National) Minor Party,Government,Executive",
+        "source_country": "Senegal",
+        "event_text": "Make statement",
+        "cameo_code": 10,
+        "intensity": 0,
+        "target_name": "Justice Department/Ministery (Senegal)",
+        "target_sectors": "Judicial,Government",
+        "target_country": "Senegal",
+        "story_id": 50079777,
+        "sentence_number": 1,
+        "publisher": "All Africa",
+        "city": "",
+        "district": "",
+        "province": "Nouvel",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.84006,
+          33.9911
+        ]
+      },
+      "properties": {
+        "cartodb_id": 27,
+        "latitude": 33.9911,
+        "longitude": -6.84006,
+        "event_id": 34782012,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Morocco",
+        "source_sectors": "",
+        "source_country": "Morocco",
+        "event_text": "Engage in symbolic act",
+        "cameo_code": 17,
+        "intensity": 0,
+        "target_name": "Horst KÃ¶hler",
+        "target_sectors": "Center Right,Christian,International Religious,Ideological,Elite,Parties,(National) Major Party",
+        "target_country": "Germany",
+        "story_id": 50079788,
+        "sentence_number": 4,
+        "publisher": "All Africa",
+        "city": "",
+        "district": "",
+        "province": "",
+        "country": "Morocco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1875,
+          32.8752
+        ]
+      },
+      "properties": {
+        "cartodb_id": 28,
+        "latitude": 32.8752,
+        "longitude": 13.1875,
+        "event_id": 34769208,
+        "event_date": "2020-01-01T00:00:00Z",
+        "source_name": "Khalifa Belqasim Haftar",
+        "source_sectors": "Government,Military",
+        "source_country": "Libya",
+        "event_text": "Praise or endorse",
+        "cameo_code": 51,
+        "intensity": 3.4,
+        "target_name": "Government (Libya)",
+        "target_sectors": "Government",
+        "target_country": "Libya",
+        "story_id": 50079791,
+        "sentence_number": 2,
+        "publisher": "All Africa",
+        "city": "Tripoli",
+        "district": "",
+        "province": "Sha`biyat Tarabulus",
+        "country": "Libya"
+      }
+    }
+  ]
+}
